@@ -16,6 +16,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMng0ZmJyY2luMjR1NjBrb2VlZ3JsZzF4aDd2dnJ4OW00NW1tcDJnbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
 </p>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djony225&label=Profile%20views&color=0e75b6&style=flat" alt="djony225" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djony225" alt="djony225" /></a> </p>
