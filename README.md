@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **kouyateaziz25@gmail.com**
 
-- 📄 Know about my experiences [https://........](https://........)
+- 📄 Know about my experiences https://abdel-kouyate-portfolio.vercel.app/Kouyate_CV.pdf
 
 - ⚡ Fun fact **I love reading and exploring the cosmos.**
 
