@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **JS, Python, PHP, NodeJS, TS**
 
-- 👨‍💻 All of my projects are available at [https://.......](https://.......)
+- 👨‍💻 All of my projects are available at [[https://.......](https://.......)](https://abdel-kouyate-portfolio.vercel.app/)
 
 - 📫 How to reach me **kouyateaziz25@gmail.com**
 
